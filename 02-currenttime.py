@@ -9,3 +9,9 @@ Date: 18/09/17
 import time
 
 print ("Current date & time " + time.strftime("%c"))
+
+'''
+Output:
+
+"Current date & time <day> <month> <daynumber> <time> <year>"
+'''

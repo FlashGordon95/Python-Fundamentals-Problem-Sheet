@@ -7,3 +7,9 @@ Date: 18/09/17
 '''
 #Print hello world to the screen
 print("Hello World")
+
+'''
+Output:
+
+"Hello World"
+'''
