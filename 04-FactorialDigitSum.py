@@ -23,3 +23,12 @@ factNum = fact(100) # Calls the fact function, number given is the factorial
 # from one of my other solutions. Split the int into singular digits in a list
 # we then call sum on this list
 print(sum([int(i) for i in str(factNum)]))
+
+'''
+Input:
+100 
+
+Output: 
+648
+
+'''

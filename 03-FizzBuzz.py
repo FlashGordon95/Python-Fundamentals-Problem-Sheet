@@ -19,3 +19,24 @@ for x in range(100):
         print('Buzz');
     else:
         print(str(x))
+
+
+'''
+Output (trimmed):
+
+Buzz
+86
+Fizz
+88
+89
+FizzBuzz
+91
+92
+Fizz
+94
+Buzz
+Fizz
+97
+98
+Fizz
+'''
