@@ -8,13 +8,14 @@ For numbers which are multiples of both three and five print "FizzBuzz".
 
 '''
 
-
+#Create a list of numbers up to 100 and then iterate over it 
 for x in range(100):
     if x % 3 == 0 and x % 5 == 0:
      print('FizzBuzz');
-    elif x % 3 == 0:
+    
+    elif x % 3 == 0: # If number is multiple of 3 but not 5
         print('Fizz');
-    elif x % 5 == 0:
+    elif x % 5 == 0: # If number is multiple of 5 but not 3
         print('Buzz');
     else:
         print(str(x))

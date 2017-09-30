@@ -7,6 +7,7 @@ n! means n*(n-1)x....
 For example, 10! = 10x9x8x7x6x5x4x3x2x1 = 3628800
 sum the digits in the number 10! is 3+6+2+8+8+0+0 = 27
 Find the sum of the digits in the number 100!
+Adapted from my other repo: https://github.com/FlashGordon95/Project-Euler-Solutions/blob/master/FactorialDigitSum-Problem20.py
 Ryan Gordon -
 """
 # Standard factorial function
