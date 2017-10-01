@@ -16,3 +16,9 @@ def reverse(text):
 string = "Yo Yo Yo , its me a Mario"
 print(string)
 print(reverse(string))
+
+'''
+Output
+Yo Yo Yo , its me a Mario
+oiraM a em sti , oY oY oY
+'''
