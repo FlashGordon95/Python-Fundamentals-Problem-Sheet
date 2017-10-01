@@ -27,3 +27,8 @@ def palindromeTest(testString):
         return False;
 palindromeTest("Assa")
 palindromeTest("Ryan")
+
+"""
+Assa is a palindrome
+Ryan is not palindrome
+"""

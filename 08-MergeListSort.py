@@ -21,3 +21,11 @@ listthree.sort()
 
 print ("After sort : ")
 print (listthree)
+
+'''
+Output
+Before sort :
+[99, 1, 4, 6, 8, 24, 2, 3, 5]
+After sort :
+[1, 2, 3, 4, 5, 6, 8, 24, 99]
+'''
