@@ -9,6 +9,19 @@ These are my solutions to the [Python fundamentals problem sheet](https://emergi
 ## How this repository is organised
 Each solution to each problem on the problem sheet is in its own file.
 The files are named in the format `##-title.py`.
+In the 'test-cases' folder there are a number of python test cases for some of the problems.
+
+## How to use the repos testing 
+
+From the root directory of the repo, use the command :
+```
+pytest
+```
+This will then scan through the repo looking for files beginning with 'test_' and execute the test cases inside.
+Testing is done using the pytest module. To install pytest enter into your terminal 
+```
+pip3 install pytest
+```
 
 ## How to clone this repository
 1. Go to the [GitHub](https://www.github.com) [repository page]().
